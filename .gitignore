@@ -1,0 +1,17 @@
+# Byte-compiled files
+__pycache__/
+*.pyc
+
+# Virtual environment
+python_memory_handling/Scripts/
+python_memory_handling/Lib/
+python_memory_handling/Include/
+python_memory_handling/pyvenv.cfg
+venv/
+.venv/
+
+# Editor
+.vscode/
+
+# Test cache
+.pytest_cache/

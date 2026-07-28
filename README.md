@@ -1,6 +1,6 @@
 # Python Memory Handling
 
-A small simulation of how a memory allocator works, built with plain Python
+A small simulation of how a memory allocator works, built with Python
 classes: **arenas** contain **pools**, pools contain **blocks**, and a
 **memory manager** ties it all together.
 
